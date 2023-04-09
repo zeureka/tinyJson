@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+    "allow_bp": false,
+    "no_share": false,
+    "max_limit": 500,
+    "page_no": 1,
+    "has_next": false,
+    "ip_info": {
+      "country": "中国",
+      "province": "四川",
+      "city": "成都"
+    },
+    "is_owner": false,
+    "name": "Z-IAee",
+    "level_info": {
+      "current_level": 4,
+      "current_min": 4500,
+      "current_exp": 5575,
+      "next_exp": 10800,
+      "level_up": 1671846615
+    },
+    "vip": {
+      "type": 1,
+      "status": 1,
+      "vip_pay_type": 0,
+      "theme_type": 0,
+      "label": {
+        "path": "",
+        "text": "大会员",
+        "label_theme": "vip",
+        "text_color": "#FFFFFF",
+        "bg_style": 1,
+        "bg_color": "#FB7299",
+        "border_color": "",
+        "use_img_label": true,
+        "img_label_uri_hans": "",
+        "img_label_uri_hant": ""
+      },
+      "avatar_subscript": 1,
+      "nickname_color": "#FB7299",
+      "role": 1,
+      "avatar_subscript_url": "",
+      "tv_vip_status": 0,
+      "tv_vip_pay_type": 0
+    },
+    "answer_status": 0,
+    "block_time": 0,
+    "role": "0",
+    "last_play_time": 55000,
+    "now_time": 1680665560,
+    "online_count": 100,
+    "dm_mask": {
+      "plat": 0,
+      "fps": 25,
+      "time": 0
+    },
+    "subtitle": {
+      "allow_submit": false,
+      "lan": "",
+      "lan_doc": "",
+      "subtitles": [
+        {
+          "lan": "ai-zh",
+          "lan_doc": "中文（自动生成）",
+          "is_lock": false,
+          "type": 1,
+          "ai_type": 0,
+          "ai_status": 2
+        }
+      ]
+    },
+    "view_points": [],
+    "is_ugc_pay_preview": false,
+    "preview_toast": "为创作付费，购买观看完整视频|购买观看",
+    "options": {
+      "is_360": false,
+      "without_vip": false
+    },
+    "guide_attention": [],
+    "jump_card": [],
+    "operation_card": [],
+    "online_switch": {
+      "enable_gray_dash_playback": "500",
+      "new_broadcast": "1",
+      "realtime_dm": "1",
+      "subtitle_submit_switch": "1"
+    },
+    "fawkes": {
+      "config_version": 21724,
+      "ff_version": 21289
+    },
+    "show_switch": {
+      "long_progress": false
+    },
+    "bgm_info": null,
+    "toast_block": false
+  }
+}
